@@ -1,0 +1,17 @@
+Thunmbs.db
+desktop.ini
+
+
+### JetBrains IDE ###
+.idea/
+*.iml
+workspace.xml
+
+### venv ###
+.venv/
+venv/
+env/
+
+### pyhton ###
+__pycache__/
+*.py[cod]
